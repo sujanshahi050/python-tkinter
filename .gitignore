@@ -1,0 +1,7 @@
+# ENVIRONMENTS
+.venv
+venv/
+
+
+*.py[cod]
+.DS_STORE
